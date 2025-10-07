@@ -27,4 +27,4 @@
 | Ονοματεπώνυμο                    | GitHub Username                          | 
 | -------------------------------- | ---------------------------------------- |
 | Παναγιώτης Μηλόπουλος | [@panamilo](https://github.com/panamilo) |
-| ...                              | ...                                      |
+| Μάριος Στεφανίδης     | [@mstephanidhs](https://github.com/mstephanidhs)    |
