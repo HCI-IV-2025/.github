@@ -28,4 +28,4 @@
 | -------------------------------- | ---------------------------------------- |
 | Παναγιώτης Μηλόπουλος | [@panamilo](https://github.com/panamilo) |
 | Μάριος Στεφανίδης     | [@mstephanidhs](https://github.com/mstephanidhs)    |
-| Φωτεινή Υψηλάντη      |  [@fotiniyp] (https://github.com/fotiniyp)          |  
+| Φωτεινή Υψηλάντη      | [@fotiniyp](https://github.com/fotiniyp)          |  
