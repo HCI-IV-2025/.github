@@ -30,3 +30,4 @@
 | Μάριος Στεφανίδης     | [@mstephanidhs](https://github.com/mstephanidhs)    |
 | Φωτεινή Υψηλάντη      | [@fotiniyp](https://github.com/fotiniyp)          |  
 | Εμμανουέλα Βαγιανού      | [@Kayieni](https://github.com/Kayieni)          |  
+| Θεμιστοκλής Σαραντάκος     | [@Themis-Sar](https://github.com/Themis-Sar)  |  
