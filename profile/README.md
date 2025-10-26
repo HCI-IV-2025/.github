@@ -35,3 +35,4 @@
 | Φωτεινή Υψηλάντη      | [@fotiniyp](https://github.com/fotiniyp)          |  
 | Εμμανουέλα Βαγιανού      | [@Kayieni](https://github.com/Kayieni)          |  
 | Θεμιστοκλής Σαραντάκος     | [@Themis-Sar](https://github.com/Themis-Sar)  |  
+| Παναγιώτης Σαρηγιάννης       | [@pansarz](https://github.com/pansarz)      | 
