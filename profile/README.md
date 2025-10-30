@@ -22,6 +22,7 @@
 ## 📜 Κανόνες Λειτουργίας
 
 (Work in Progress — προτάσεις ευπρόσδεκτες!)
+- Κάθε Pull Request σε repository της ομάδας θα πρέπει να εγκρίνεται από τουλάχιστον έναν reviewer που δεν είναι ο ίδιος με τον committer.
 
 ## 🕸️ Webring Ομάδας
 Το Webring της ομάδας φαίνεται κάνοντας κλικ [εδώ](https://hci-iv-2025.github.io/webring/)
