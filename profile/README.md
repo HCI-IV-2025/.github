@@ -36,3 +36,4 @@
 | Εμμανουέλα Βαγιανού      | [@Kayieni](https://github.com/Kayieni)          |  
 | Θεμιστοκλής Σαραντάκος     | [@Themis-Sar](https://github.com/Themis-Sar)  |  
 | Παναγιώτης Σαρηγιάννης       | [@pansarz](https://github.com/pansarz)      | 
+| Φωτοπούλου Ελένη       | [@EleniFot](https://github.com/EleniFot)      |
