@@ -38,3 +38,4 @@
 | Θεμιστοκλής Σαραντάκος     | [@Themis-Sar](https://github.com/Themis-Sar)  |  
 | Παναγιώτης Σαρηγιάννης       | [@pansarz](https://github.com/pansarz)      | 
 | Φωτοπούλου Ελένη       | [@EleniFot](https://github.com/EleniFot)      |
+| Χύμα Αθανασία | [@athxim1995](https://github.com/athxim1995) |
